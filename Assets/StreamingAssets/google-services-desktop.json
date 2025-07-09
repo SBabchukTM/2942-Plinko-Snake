@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521893852777",
+    "project_id": "plinko-snake",
+    "storage_bucket": "plinko-snake.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521893852777:android:aa373c22236ec139e794f8",
+        "android_client_info": {
+          "package_name": "com.ishafoundati"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA52vI1xB3YcTyr8Q4rhJVtDd0wdUXaYLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
