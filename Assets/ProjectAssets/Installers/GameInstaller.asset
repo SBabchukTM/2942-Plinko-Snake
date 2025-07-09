@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 579500b795c64b92a4116bd421ccfa9c, type: 3}
+  m_Name: GameInstaller
+  m_EditorClassIdentifier: 
+  _bgScroller: {fileID: 2099123301567711738, guid: 2d55d514e16a45a4c88b87dbc63ff495, type: 3}

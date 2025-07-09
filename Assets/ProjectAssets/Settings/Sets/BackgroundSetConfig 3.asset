@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f63c0b960a81f034882a633c3c5c90df, type: 3}
+  m_Name: BackgroundSetConfig 3
+  m_EditorClassIdentifier: 
+  ShopItem:
+    Sprite: {fileID: 21300000, guid: f7ad5380c55b24e41b7aca1dd0e32649, type: 3}
+    Price: 500
+  BlockSprite: {fileID: 21300000, guid: 66d444f22ff9d8148be0d687b8526962, type: 3}
+  LongItemSprite: {fileID: 21300000, guid: f453bebd2fc88d344b03cc2e519b2961, type: 3}
+  ShortItemSprite: {fileID: 21300000, guid: 9862c8dcfdc9e7143aced23b68d9e9af, type: 3}

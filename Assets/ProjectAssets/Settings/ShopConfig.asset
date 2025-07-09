@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2a6eb917428ded4488cecbc9fff1c3c, type: 3}
+  m_Name: ShopConfig
+  m_EditorClassIdentifier: 
+  BackgroundSets:
+  - {fileID: 11400000, guid: c609d8eca5e5a24459d6516f26a43ea1, type: 2}
+  - {fileID: 11400000, guid: fa4ca50018880a14299aa37646204566, type: 2}
+  - {fileID: 11400000, guid: c3e15ced345dd314fae2e26644160498, type: 2}
+  - {fileID: 11400000, guid: da037ceb5b5c287449016c67879d1618, type: 2}
+  - {fileID: 11400000, guid: 0733457542a3a1f4f8700dc4789a6884, type: 2}
+  SkinItems:
+  - Sprite: {fileID: 21300000, guid: 34deaded0f71bfa4ea0961566061cb68, type: 3}
+    Price: 0
+  - Sprite: {fileID: 21300000, guid: 2e745cbabc21a0145aa83a13f3b03e70, type: 3}
+    Price: 10
+  - Sprite: {fileID: 21300000, guid: 01b2e26b6fab44f4280e52c5742adabf, type: 3}
+    Price: 20
+  - Sprite: {fileID: 21300000, guid: 6af698eba104e9f4bbe6d7b5b3056586, type: 3}
+    Price: 33
+  - Sprite: {fileID: 21300000, guid: dd0e92179afaefb48b3eedb1bf91bdee, type: 3}
+    Price: 50
+  - Sprite: {fileID: 21300000, guid: 663770c11b5dab4458da31496e94fd29, type: 3}
+    Price: 100
+  - Sprite: {fileID: 21300000, guid: 5b474b11c68b3e84b96e997c6f19fac9, type: 3}
+    Price: 150
+  - Sprite: {fileID: 21300000, guid: 7c85e2da179d0f74ca260cc4f22842f4, type: 3}
+    Price: 250
+  - Sprite: {fileID: 21300000, guid: af8ebaa149ab02e41b50fba33ed24851, type: 3}
+    Price: 500
+  - Sprite: {fileID: 21300000, guid: 0272fff7da2dd6840bd1356ee7656147, type: 3}
+    Price: 1000
+  CoinSprite: {fileID: 21300000, guid: 86844459f638f4b4380d6a1ecf18d11d, type: 3}
+  NothingSprite: {fileID: 21300000, guid: 8cb17dbc963f97845be2a2aa20693da5, type: 3}
