@@ -888,6 +888,9 @@
             </e>
           </e>
         </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="google-services-desktop.json" t="Include" />
+        </e>
         <e p="ThirdParty" t="Include">
           <e p="CrossPlatformInput" t="Include">
             <e p="Editor" t="Include">
